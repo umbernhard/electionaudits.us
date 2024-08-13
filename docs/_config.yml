@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   An information page and hosting spot for election audit technology.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://electionaudits.us" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username: umbernhard
 
 # Build settings
 theme: minima
